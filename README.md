@@ -6,6 +6,11 @@ Changes to standard academic theme:
 
 
 
+...although - now changed research bits back to referring to 'project/' folder.   
+...in which case don't even need this repo; could just use the gcushen/hugo-academic one instead and ditch this...
+
+
+
 ---
 
 
